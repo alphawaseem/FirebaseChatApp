@@ -8,6 +8,7 @@ code for Web, Android, Objective-C and Swift. To get started open the codelab in
  - [Swift Codelab](https://codelabs.developers.google.com/codelabs/firebase-ios-swift/).
  - [Objective-C Codelab](https://codelabs.developers.google.com/codelabs/firebase-ios-objc/).
 
+### A modified a live version of this app is [here](https://my-pwa-8e1f1.firebaseapp.com/chat/).
 
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
